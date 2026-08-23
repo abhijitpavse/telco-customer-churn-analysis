@@ -361,36 +361,6 @@ ROC-AUC provides an additional view of the model's ability to distinguish betwee
 
 ---
 
-# 📉 Visual Analysis
-
-The project includes visualizations covering both customer behavior and model performance.
-
-### Churn Distribution
-
-![Churn Distribution](outputs/charts/churn_distribution.png)
-
-### Churn by Contract
-
-![Churn by Contract](outputs/charts/churn_by_contract.png)
-
-### Churn by Payment Method
-
-![Churn by Payment Method](outputs/charts/churn_by_payment_method.png)
-
-### Churn by Tenure
-
-![Churn by Tenure](outputs/charts/churn_by_tenure.png)
-
-### Monthly Charges vs Churn
-
-![Monthly Charges](outputs/charts/monthly_charges_boxplot.png)
-
-### Tenure vs Churn
-
-![Tenure](outputs/charts/tenure_boxplot.png)
-
----
-
 # 💡 Business Recommendations
 
 The analysis can be translated into several practical retention strategies.
@@ -616,7 +586,7 @@ Potential next steps for this project include:
 
 # 👨‍💻 Author
 
-## Abhijit Mhatardev Pavse
+## Abhijit Pavse
 
 **Data Engineering • AI • Analytics**
 
