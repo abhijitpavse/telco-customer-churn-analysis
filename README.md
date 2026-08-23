@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/project-banner.png" alt="Telco Customer Churn Analysis & Prediction" width="100%">
+</p>
+
 # 📊 Telco Customer Churn Analysis & Prediction
 
 <p align="center">
